@@ -3,6 +3,9 @@ generative art produced using a "camera" made up of photoresistors.
 
 ![arduino connected to laptop](assets/main-image.jpg)
 
+## Post Mortem vid
+https://github.com/maffiemaffie/arduino-camera-art/assets/111717714/4dc4af76-3d98-44f5-abdf-1f94f7222454
+
 ## Circuit
 The electronics are dead simple: four photoresistors in a square, each connected to an analog pin.
 ![schematic diagram](assets/schematic-diagram.jpg)
