@@ -17,9 +17,9 @@ Photoresistor|4
 
 ## Software
 I've divided the software into several components:
-- Data: Reads in and contains the data from the Arduino
-- MotionDetection: Interprets the data to detect motion over the camera
-- Display: Uses the data to create an art display
+- [Data](src/Processing/Data.pde): Reads in and contains the data from the Arduino
+- [MotionDetection](src/Processing/MotionDetection.pde): Interprets the data to detect motion over the camera
+- [Display](src/Processing/Display.pde): Uses the data to create an art display
 
 ## Project Process
 ### Planning
